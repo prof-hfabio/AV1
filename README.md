@@ -23,7 +23,8 @@ Para melhor aproveitamento, utilize o tutorial sobre o [ambiente de desenvolvime
 - Principais categorias de códigos HTTP (2xx, 4xx, 5xx) e os verbos de requisição.
 - principais Tags do HTML
 - Seletores do CSS
-- O que é uma webview
+- O que é uma webview  
+
 **Nota**: referências relevantes devem ser linkadas no escopo do texto
 ### Critério de avaliação 
 Tanto o conteúdo do documento quanto a utilização do markdown serão levados em consideração para a avaliação.
