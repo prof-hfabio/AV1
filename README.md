@@ -1,5 +1,5 @@
 # AV1
-A AV1 terá duração de 1 semana, deve ser entregue até a meia noite do dia 20/02/2025.
+A AV1 terá duração de 1 semana, deve ser entregue até a meia noite do dia 20/02/2025!!!
 Cada aluno deve criar um fork deste repositório e modificá-lo de acordo com a proposta escolhida abaixo.
 Para melhor aproveitamento, utilize o tutorial sobre o [ambiente de desenvolvimento](https://github.com/prof-hfabio/ambiente) para se ambientar, será proveitoso para o resto da disciplina (e possivelmente para a sua carreira)
 
