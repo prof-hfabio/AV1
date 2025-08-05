@@ -13,6 +13,8 @@ Para melhor aproveitamento, utilize o tutorial sobre o [ambiente de desenvolvime
 
 ## Proposta 1 
 **Descrição**: O aluno deverá pesquisar e elaborar um relatório que deverá ser entregue em Markdown que aborde:
+- git e github
+  - o que é cada um e qual sua função
 - protocolos de rede e comunicação (HTTP, HTTPS, websockets, FTP, SSH, SSL)
   - O que é
   - para que serve
